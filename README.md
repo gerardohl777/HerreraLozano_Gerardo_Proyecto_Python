@@ -1,1 +1,1 @@
-# HerreraLozano_Gerardo_Proyecto_Python
+# Para la realización de este proyecto he buscado información en los microlearning y las clases del master, también me ha sido muy útil consultar la documentación cada vez que quería ver como se usaba un método o una función que no me acordaba de su funcionamiento.
